@@ -1,0 +1,46 @@
+
+brand@DESKTOP-Q4AINUA MINGW64 ~/source/repos/Lab8
+$ git init
+Initialized empty Git repository in C:/Users/brand/source/repos/Lab8/.git/
+
+brand@DESKTOP-Q4AINUA MINGW64 ~/source/repos/Lab8 (master)
+$ git add .
+
+brand@DESKTOP-Q4AINUA MINGW64 ~/source/repos/Lab8 (master)
+$ git commit -m "initial commit"
+[master (root-commit) d629a07] initial commit
+ 28 files changed, 403 insertions(+)
+ create mode 100644 .vs/Lab8/DesignTimeBuild/.dtbcache.v2
+ create mode 100644 .vs/Lab8/v16/.suo
+ create mode 100644 Lab8.sln
+ create mode 100644 Lab8/Lab8.csproj
+ create mode 100644 Lab8/Program.cs
+ create mode 100644 Lab8/bin/Debug/netcoreapp3.1/Lab8.deps.json
+ create mode 100644 Lab8/bin/Debug/netcoreapp3.1/Lab8.dll
+ create mode 100644 Lab8/bin/Debug/netcoreapp3.1/Lab8.exe
+ create mode 100644 Lab8/bin/Debug/netcoreapp3.1/Lab8.pdb
+ create mode 100644 Lab8/bin/Debug/netcoreapp3.1/Lab8.runtimeconfig.dev.json
+ create mode 100644 Lab8/bin/Debug/netcoreapp3.1/Lab8.runtimeconfig.json
+ create mode 100644 Lab8/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+ create mode 100644 Lab8/obj/Debug/netcoreapp3.1/Lab8.AssemblyInfo.cs
+ create mode 100644 Lab8/obj/Debug/netcoreapp3.1/Lab8.AssemblyInfoInputs.cache
+ create mode 100644 Lab8/obj/Debug/netcoreapp3.1/Lab8.GeneratedMSBuildEditorConfig.editorconfig
+ create mode 100644 Lab8/obj/Debug/netcoreapp3.1/Lab8.assets.cache
+ create mode 100644 Lab8/obj/Debug/netcoreapp3.1/Lab8.csproj.AssemblyReference.cache
+ create mode 100644 Lab8/obj/Debug/netcoreapp3.1/Lab8.csproj.CoreCompileInputs.cache
+ create mode 100644 Lab8/obj/Debug/netcoreapp3.1/Lab8.csproj.FileListAbsolute.txt
+ create mode 100644 Lab8/obj/Debug/netcoreapp3.1/Lab8.dll
+ create mode 100644 Lab8/obj/Debug/netcoreapp3.1/Lab8.genruntimeconfig.cache
+ create mode 100644 Lab8/obj/Debug/netcoreapp3.1/Lab8.pdb
+ create mode 100644 Lab8/obj/Debug/netcoreapp3.1/apphost.exe
+ create mode 100644 Lab8/obj/Lab8.csproj.nuget.dgspec.json
+ create mode 100644 Lab8/obj/Lab8.csproj.nuget.g.props
+ create mode 100644 Lab8/obj/Lab8.csproj.nuget.g.targets
+ create mode 100644 Lab8/obj/project.assets.json
+ create mode 100644 Lab8/obj/project.nuget.cache
+
+brand@DESKTOP-Q4AINUA MINGW64 ~/source/repos/Lab8 (master)
+$ ^C
+
+brand@DESKTOP-Q4AINUA MINGW64 ~/source/repos/Lab8 (master)
+$
